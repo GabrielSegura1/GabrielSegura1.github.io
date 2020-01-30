@@ -36,5 +36,15 @@ li a:hover{
 body{
    background-color: rgb(171, 255, 235); 
 }
-
-
+h1{
+    font-family: 'Bangers', cursive;
+    margin-left: 40%;
+}
+p{
+    font-family: 'Bangers', cursive;
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    margin-left: 30%;
+}
+.img{
+ margin-left: 40%;
